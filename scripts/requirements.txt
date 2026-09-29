@@ -8,4 +8,4 @@ azure-identity==1.25.3
 # 2026-04-01 was not yet registered). The AWS and Azure checkers now dry-run
 # on any pull request that changes this file, so a break like that shows up
 # as a failed check on the Renovate PR.
-azure-mgmt-compute==38.3.0
+azure-mgmt-compute==38.4.0
