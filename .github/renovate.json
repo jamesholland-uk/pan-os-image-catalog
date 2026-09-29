@@ -14,8 +14,8 @@
 
   "packageRules": [
     {
-      "description": "Patch bumps: automerge once the dry-run checks pass",
-      "matchUpdateTypes": ["patch"],
+      "description": "Patch and minor bumps: automerge once the dry-run checks pass",
+      "matchUpdateTypes": ["patch", "minor"],
       "automerge": true
     },
     {
