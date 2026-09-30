@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "provider": "azure",
-  "generated": "2026-09-23T14:00:48Z",
+  "generated": "2026-09-30T22:18:31Z",
   "images": [
     {
       "version": "10.0.0",
@@ -835,6 +835,23 @@
       "offer": "vmseries-flex",
       "sku": "byol",
       "image_version": "12.1.7"
+    },
+    {
+      "version": "12.1.9",
+      "major": 12,
+      "minor": 1,
+      "patch": 9,
+      "hotfix": null,
+      "train": "12.1",
+      "product": "vm-series",
+      "licence": "byol",
+      "eol": false,
+      "eol_date": "2028-08-28",
+      "eol_extended_date": "2029-08-28",
+      "cpu": "flex",
+      "offer": "vmseries-flex",
+      "sku": "byol",
+      "image_version": "12.1.9"
     },
     {
       "version": "9.1.10",
@@ -1719,6 +1736,23 @@
       "offer": "vmseries-flex",
       "sku": "bundle1",
       "image_version": "12.1.7"
+    },
+    {
+      "version": "12.1.9",
+      "major": 12,
+      "minor": 1,
+      "patch": 9,
+      "hotfix": null,
+      "train": "12.1",
+      "product": "vm-series",
+      "licence": "bundle1",
+      "eol": false,
+      "eol_date": "2028-08-28",
+      "eol_extended_date": "2029-08-28",
+      "cpu": "flex",
+      "offer": "vmseries-flex",
+      "sku": "bundle1",
+      "image_version": "12.1.9"
     },
     {
       "version": "9.0.16",
@@ -2605,6 +2639,23 @@
       "image_version": "12.1.7"
     },
     {
+      "version": "12.1.9",
+      "major": 12,
+      "minor": 1,
+      "patch": 9,
+      "hotfix": null,
+      "train": "12.1",
+      "product": "vm-series",
+      "licence": "bundle2",
+      "eol": false,
+      "eol_date": "2028-08-28",
+      "eol_extended_date": "2029-08-28",
+      "cpu": "flex",
+      "offer": "vmseries-flex",
+      "sku": "bundle2",
+      "image_version": "12.1.9"
+    },
+    {
       "version": "9.1.10",
       "major": 9,
       "minor": 1,
@@ -3062,6 +3113,23 @@
       "offer": "vmseries-flex",
       "sku": "bundle3",
       "image_version": "12.1.7"
+    },
+    {
+      "version": "12.1.9",
+      "major": 12,
+      "minor": 1,
+      "patch": 9,
+      "hotfix": null,
+      "train": "12.1",
+      "product": "vm-series",
+      "licence": "bundle3",
+      "eol": false,
+      "eol_date": "2028-08-28",
+      "eol_extended_date": "2029-08-28",
+      "cpu": "flex",
+      "offer": "vmseries-flex",
+      "sku": "bundle3",
+      "image_version": "12.1.9"
     },
     {
       "version": "7.1.0",
