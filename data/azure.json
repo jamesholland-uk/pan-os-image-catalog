@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "provider": "azure",
-  "generated": "2026-10-06T00:05:24Z",
+  "generated": "2026-10-07T23:07:38Z",
   "images": [
     {
       "version": "10.0.0",
@@ -4167,6 +4167,23 @@
       "offer": "airs-flex",
       "sku": "airs-byol",
       "image_version": "12.1.7"
+    },
+    {
+      "version": "12.1.9",
+      "major": 12,
+      "minor": 1,
+      "patch": 9,
+      "hotfix": null,
+      "train": "12.1",
+      "product": "airs",
+      "licence": "byol",
+      "eol": false,
+      "eol_date": "2028-08-28",
+      "eol_extended_date": "2029-08-28",
+      "cpu": "flex",
+      "offer": "airs-flex",
+      "sku": "airs-byol",
+      "image_version": "12.1.9"
     },
     {
       "version": "10.0.0",

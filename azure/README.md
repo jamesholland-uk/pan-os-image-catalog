@@ -295,6 +295,7 @@ Azure packs the hotfix into the third component of the image version, zero-padde
 | 12.1.5 | `12.1.5` |
 | 12.1.6 | `12.1.6` |
 | 12.1.7 | `12.1.7` |
+| 12.1.9 | `12.1.9` |
 
 ## Panorama (Offer: `panorama`)
 
