@@ -59,6 +59,7 @@ Image names pack the version with no separators: `10.2.0` is `1020`, and a hotfi
 | 12.1.7 | `vmseries-flex-byol-1217` |
 | 12.1.7-h6 | `vmseries-flex-byol-1217h6` |
 | 12.1.9 | `vmseries-flex-byol-1219` |
+| 12.2.3 | `vmseries-flex-byol-1223` |
 
 ### PAYG Bundle 1
 
@@ -105,6 +106,7 @@ Image names pack the version with no separators: `10.2.0` is `1020`, and a hotfi
 | 12.1.5 | `vmseries-flex-bundle1-1215` |
 | 12.1.7 | `vmseries-flex-bundle1-1217` |
 | 12.1.9 | `vmseries-flex-bundle1-1219` |
+| 12.2.3 | `vmseries-flex-bundle1-1223` |
 
 ### PAYG Bundle 2
 
@@ -151,6 +153,7 @@ Image names pack the version with no separators: `10.2.0` is `1020`, and a hotfi
 | 12.1.5 | `vmseries-flex-bundle2-1215` |
 | 12.1.7 | `vmseries-flex-bundle2-1217` |
 | 12.1.9 | `vmseries-flex-bundle2-1219` |
+| 12.2.3 | `vmseries-flex-bundle2-1223` |
 
 ### PAYG Bundle 3
 

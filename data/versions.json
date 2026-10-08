@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated": "2026-10-07T23:07:38Z",
+  "generated": "2026-10-08T06:31:26Z",
   "images": [
     {
       "provider": "aws",
@@ -9285,6 +9285,22 @@
     },
     {
       "provider": "gcp",
+      "version": "12.2.3",
+      "major": 12,
+      "minor": 2,
+      "patch": 3,
+      "hotfix": null,
+      "train": "12.2",
+      "product": "vm-series",
+      "licence": "bundle1",
+      "eol": false,
+      "eol_date": "2029-07-30",
+      "eol_extended_date": "2030-07-30",
+      "cpu": "flex",
+      "image_name": "vmseries-flex-bundle1-1223"
+    },
+    {
+      "provider": "gcp",
       "version": "9.1.16-h3",
       "major": 9,
       "minor": 1,
@@ -9938,6 +9954,22 @@
       "eol_extended_date": "2029-08-28",
       "cpu": "flex",
       "image_name": "vmseries-flex-bundle2-1219"
+    },
+    {
+      "provider": "gcp",
+      "version": "12.2.3",
+      "major": 12,
+      "minor": 2,
+      "patch": 3,
+      "hotfix": null,
+      "train": "12.2",
+      "product": "vm-series",
+      "licence": "bundle2",
+      "eol": false,
+      "eol_date": "2029-07-30",
+      "eol_extended_date": "2030-07-30",
+      "cpu": "flex",
+      "image_name": "vmseries-flex-bundle2-1223"
     },
     {
       "provider": "gcp",
@@ -11234,6 +11266,22 @@
       "eol_extended_date": "2029-08-28",
       "cpu": "flex",
       "image_name": "vmseries-flex-byol-1219"
+    },
+    {
+      "provider": "gcp",
+      "version": "12.2.3",
+      "major": 12,
+      "minor": 2,
+      "patch": 3,
+      "hotfix": null,
+      "train": "12.2",
+      "product": "vm-series",
+      "licence": "byol",
+      "eol": false,
+      "eol_date": "2029-07-30",
+      "eol_extended_date": "2030-07-30",
+      "cpu": "flex",
+      "image_name": "vmseries-flex-byol-1223"
     },
     {
       "provider": "gcp",
