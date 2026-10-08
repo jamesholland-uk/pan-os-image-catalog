@@ -26,6 +26,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [12.1.7](byol/12.1.7.md) - 31 regions
 - [12.1.7-h6](byol/12.1.7-h6.md) - 31 regions
 - [12.1.9](byol/12.1.9.md) - 31 regions
+- [12.2.3](byol/12.2.3.md) - 31 regions
 
 ### PAYG Bundle 1
 
@@ -72,6 +73,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [11.2.12](airs/11.2.12.md) - 30 regions
 - [12.1.7](airs/12.1.7.md) - 30 regions
 - [12.1.7-h6](airs/12.1.7-h6.md) - 30 regions
+- [12.2.3](airs/12.2.3.md) - 30 regions
 
 ### Panorama
 
