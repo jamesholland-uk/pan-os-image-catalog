@@ -95,6 +95,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [12.1.5](panorama/12.1.5.md) - 30 regions
 - [12.1.7](panorama/12.1.7.md) - 30 regions
 - [12.1.9](panorama/12.1.9.md) - 30 regions
+- [12.2.3](panorama/12.2.3.md) - 30 regions
 
 ## Regions not covered
 
