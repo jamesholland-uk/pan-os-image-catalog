@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "provider": "gcp",
-  "generated": "2026-10-08T06:31:26Z",
+  "generated": "2026-10-08T18:57:52Z",
   "images": [
     {
       "version": "8.1.0",
@@ -3047,6 +3047,21 @@
       "eol_extended_date": "2029-08-28",
       "cpu": "flex",
       "image_name": "ai-runtime-security-byol-1219"
+    },
+    {
+      "version": "12.2.3",
+      "major": 12,
+      "minor": 2,
+      "patch": 3,
+      "hotfix": null,
+      "train": "12.2",
+      "product": "airs",
+      "licence": "byol",
+      "eol": false,
+      "eol_date": "2029-07-30",
+      "eol_extended_date": "2030-07-30",
+      "cpu": "flex",
+      "image_name": "ai-runtime-security-byol-1223"
     },
     {
       "version": "12.1.3",

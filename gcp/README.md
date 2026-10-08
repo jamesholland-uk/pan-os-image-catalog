@@ -247,6 +247,7 @@ Image names pack the version with no separators: `10.2.0` is `1020`, and a hotfi
 | 12.1.7 | `ai-runtime-security-byol-1217` |
 | 12.1.7-h6 | `ai-runtime-security-byol-1217h6` |
 | 12.1.9 | `ai-runtime-security-byol-1219` |
+| 12.2.3 | `ai-runtime-security-byol-1223` |
 
 ## Panorama
 
