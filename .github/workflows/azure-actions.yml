@@ -30,6 +30,8 @@ jobs:
   panos-checker:
     permissions:
       contents: write
+      # Lets the job request a GitHub OIDC token to log in to Azure.
+      id-token: write
     name: "panos-checker"
     # Pull requests from forks get no secrets, so there is nothing to run.
     if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
@@ -50,15 +52,21 @@ jobs:
         with:
           python-version: "3.15.0"
 
+      # Logs the Azure CLI in with a federated credential, no client secret.
+      # DefaultAzureCredential in the script then picks up that CLI login.
+      - name: Log in to Azure
+        uses: azure/login@a641126d1b8aa4d1fa005f4f92df94a3a4c4c906 # v3.1.0
+        with:
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+
       - name: Run Azure processing
         run: |-
           pip install -r scripts/requirements.txt
           python scripts/azure-processing.py
         env:
           AZURE_SUBSCRIPTION_ID: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
-          AZURE_CLIENT_ID: ${{ secrets.AZURE_CLIENT_ID }}
-          AZURE_CLIENT_SECRET: ${{ secrets.AZURE_CLIENT_SECRET }}
-          AZURE_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
 
       - name: Show what would be committed
         if: github.event_name == 'pull_request'
