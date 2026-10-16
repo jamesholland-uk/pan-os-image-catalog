@@ -11,6 +11,7 @@
 
   "minimumReleaseAge": "3 days",
   "rangeStrategy": "pin",
+  "internalChecksFilter": "strict",
 
   "packageRules": [
     {
