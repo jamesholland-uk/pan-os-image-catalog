@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated": "2026-10-14T11:35:07Z",
+  "generated": "2026-10-20T16:41:35Z",
   "images": [
     {
       "provider": "aws",
@@ -3307,6 +3307,54 @@
         "us-east-2": "ami-06faca396c1b2cf5b",
         "us-west-1": "ami-0b6b52f992be6faf9",
         "us-west-2": "ami-0d1e00e29e71322aa"
+      }
+    },
+    {
+      "provider": "aws",
+      "version": "11.2.16",
+      "major": 11,
+      "minor": 2,
+      "patch": 16,
+      "hotfix": null,
+      "train": "11.2",
+      "product": "vm-series",
+      "licence": "byol",
+      "eol": false,
+      "eol_date": "2027-05-02",
+      "eol_extended_date": "2027-08-31",
+      "product_code": "6njl1pau431dv1qxipg63mvah",
+      "amis": {
+        "af-south-1": "ami-01f7fd3949750eae9",
+        "ap-east-1": "ami-0b83b6765f5b07be7",
+        "ap-east-2": "ami-06061a5e52f56b600",
+        "ap-northeast-1": "ami-0bc0ab63690ea6aef",
+        "ap-northeast-2": "ami-0d0071da4655af672",
+        "ap-northeast-3": "ami-0fa838fcb598c6d54",
+        "ap-south-1": "ami-0e559c92a83097776",
+        "ap-south-2": "ami-0ed02ecab1836da52",
+        "ap-southeast-1": "ami-09cb8b04726fcc4b6",
+        "ap-southeast-2": "ami-0a647cf59a10da68c",
+        "ap-southeast-3": "ami-09b0fd2196fd8fdcd",
+        "ap-southeast-4": "ami-031759f5417a22afc",
+        "ap-southeast-5": "ami-0a71e60953b5e1499",
+        "ap-southeast-7": "ami-0d2b19500383f44f4",
+        "ca-central-1": "ami-038199b08a0c78922",
+        "ca-west-1": "ami-0fee90a3d21976071",
+        "eu-central-1": "ami-03183784dc79533a8",
+        "eu-central-2": "ami-04f00d4f714d8c587",
+        "eu-north-1": "ami-0ab4e2da8fd27618f",
+        "eu-south-1": "ami-09025bba15dd22b83",
+        "eu-south-2": "ami-05093fd3dcf261bd4",
+        "eu-west-1": "ami-099ce7d3ae52055d2",
+        "eu-west-2": "ami-022d58161555ec07e",
+        "eu-west-3": "ami-0fe75f2ef0296bb12",
+        "il-central-1": "ami-0e5b5f9c10a23d013",
+        "mx-central-1": "ami-08e414d4e5dd12e30",
+        "sa-east-1": "ami-0ffc4b3a3471e182b",
+        "us-east-1": "ami-0e77353d2c98266b3",
+        "us-east-2": "ami-0ac45a370f4371f5c",
+        "us-west-1": "ami-0b4ac35fd1ea71dfb",
+        "us-west-2": "ami-0084165cdc85a2bfd"
       }
     },
     {
