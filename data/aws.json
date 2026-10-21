@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "provider": "aws",
-  "generated": "2026-10-20T21:28:21Z",
+  "generated": "2026-10-21T04:14:20Z",
   "images": [
     {
       "version": "11.2.4-h1",
@@ -237,6 +237,7 @@
       "amis": {
         "af-south-1": "ami-0f68b9fdee6ea3e18",
         "ap-east-1": "ami-01ee2e7b336646356",
+        "ap-northeast-1": "ami-05c45fbc240b84d3f",
         "ap-northeast-2": "ami-0a68b13084a93b2cc",
         "ap-northeast-3": "ami-045c28b739e47f83d",
         "ap-south-1": "ami-0edf508cd176af692",

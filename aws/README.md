@@ -74,7 +74,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [11.2.9](airs/11.2.9.md) - 18 regions
 - [11.2.12](airs/11.2.12.md) - 30 regions
 - [11.2.15](airs/11.2.15.md) - 30 regions
-- [11.2.16](airs/11.2.16.md) - 29 regions
+- [11.2.16](airs/11.2.16.md) - 30 regions
 - [12.1.7](airs/12.1.7.md) - 30 regions
 - [12.1.7-h6](airs/12.1.7-h6.md) - 30 regions
 - [12.1.9](airs/12.1.9.md) - 30 regions
