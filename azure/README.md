@@ -71,6 +71,7 @@ Azure packs the hotfix into the third component of the image version, zero-padde
 | 12.1.7 | `12.1.7` |
 | 12.1.7-h6 | `12.1.706` |
 | 12.1.9 | `12.1.9` |
+| 12.2.3 | `12.2.3` |
 
 ### PAYG Bundle 1 (SKU: `bundle1`)
 
@@ -289,13 +290,16 @@ Azure packs the hotfix into the third component of the image version, zero-padde
 | 11.2.10-h6 | `11.2.1006` |
 | 11.2.11 | `11.2.11` |
 | 11.2.12 | `11.2.12` |
+| 11.2.15 | `11.2.15` |
 | 12.1.3-h2 | `12.1.302` |
 | 12.1.4 | `12.1.4` |
 | 12.1.4-h5 | `12.1.405` |
 | 12.1.5 | `12.1.5` |
 | 12.1.6 | `12.1.6` |
 | 12.1.7 | `12.1.7` |
+| 12.1.7-h6 | `12.1.706` |
 | 12.1.9 | `12.1.9` |
+| 12.2.3 | `12.2.3` |
 
 ## Panorama (Offer: `panorama`)
 
