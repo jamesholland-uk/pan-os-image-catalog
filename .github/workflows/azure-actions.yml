@@ -50,7 +50,7 @@ jobs:
       # GitHub moves ubuntu-latest to a new image.
       - uses: "actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97" # v7.0.0
         with:
-          python-version: "3.15.0"
+          python-version: "3.15.1"
 
       # Logs the Azure CLI in with a federated credential, no client secret.
       # DefaultAzureCredential in the script then picks up that CLI login.
