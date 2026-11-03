@@ -14,6 +14,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [11.1.6-h33](byol/11.1.6-h33.md) - 31 regions
 - [11.1.6-h35](byol/11.1.6-h35.md) - 31 regions
 - [11.1.6-h39](byol/11.1.6-h39.md) - 31 regions
+- [11.1.6-h40](byol/11.1.6-h40.md) - 31 regions
 - [11.1.10-h22](byol/11.1.10-h22.md) - 31 regions
 - [11.1.10-h25](byol/11.1.10-h25.md) - 31 regions
 - [11.1.13-h5](byol/11.1.13-h5.md) - 31 regions
@@ -69,6 +70,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 
 ### Prisma AIRS (AI Runtime Security) BYOL
 
+- [11.1.6-h40](airs/11.1.6-h40.md) - 30 regions
 - [11.1.13-h16](airs/11.1.13-h16.md) - 30 regions
 - [11.2.4-h1](airs/11.2.4-h1.md) - 14 regions
 - [11.2.4-h5](airs/11.2.4-h5.md) - 14 regions
