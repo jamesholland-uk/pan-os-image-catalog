@@ -10,7 +10,6 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [10.2.10-h12 (EOL, extended support to 2027-03-31)](byol/10.2.10-h12.md) - 28 regions
 - [10.2.13-h16 (EOL, extended support to 2027-03-31)](byol/10.2.13-h16.md) - 32 regions
 - [10.2.14 (EOL, extended support to 2027-03-31)](byol/10.2.14.md) - 31 regions
-- [11.0.4-h6 (EOL)](byol/11.0.4-h6.md) - 28 regions
 - [11.1.6-h33](byol/11.1.6-h33.md) - 31 regions
 - [11.1.6-h35](byol/11.1.6-h35.md) - 31 regions
 - [11.1.6-h39](byol/11.1.6-h39.md) - 31 regions
@@ -36,7 +35,6 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 
 ### PAYG Bundle 1
 
-- [11.0.4-h6 (EOL)](bundle1/11.0.4-h6.md) - 28 regions
 - [11.1.10-h25](bundle1/11.1.10-h25.md) - 30 regions
 - [11.1.13-h5](bundle1/11.1.13-h5.md) - 30 regions
 - [11.1.13-h12](bundle1/11.1.13-h12.md) - 30 regions
@@ -50,11 +48,9 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 
 ### PAYG Bundle 2
 
-- [10.2.10-h9 (EOL, extended support to 2027-03-31)](bundle2/10.2.10-h9.md) - 29 regions
 - [10.2.10-h12 (EOL, extended support to 2027-03-31)](bundle2/10.2.10-h12.md) - 31 regions
 - [10.2.10-h14 (EOL, extended support to 2027-03-31)](bundle2/10.2.10-h14.md) - 31 regions
 - [10.2.14 (EOL, extended support to 2027-03-31)](bundle2/10.2.14.md) - 31 regions
-- [11.0.4-h6 (EOL)](bundle2/11.0.4-h6.md) - 29 regions
 - [11.1.10-h25](bundle2/11.1.10-h25.md) - 30 regions
 - [11.1.13-h5](bundle2/11.1.13-h5.md) - 30 regions
 - [11.1.13-h12](bundle2/11.1.13-h12.md) - 30 regions
@@ -93,7 +89,6 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 
 ### Panorama
 
-- [11.1.4-h7](panorama/11.1.4-h7.md) - 27 regions
 - [11.1.6-h7](panorama/11.1.6-h7.md) - 31 regions
 - [11.1.6-h35](panorama/11.1.6-h35.md) - 30 regions
 - [11.1.15](panorama/11.1.15.md) - 30 regions
