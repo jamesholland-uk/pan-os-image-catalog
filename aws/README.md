@@ -21,6 +21,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [11.1.13-h12](byol/11.1.13-h12.md) - 31 regions
 - [11.1.13-h16](byol/11.1.13-h16.md) - 31 regions
 - [11.1.15](byol/11.1.15.md) - 31 regions
+- [11.1.16-h4](byol/11.1.16-h4.md) - 31 regions
 - [11.2.5](byol/11.2.5.md) - 28 regions
 - [11.2.7-h18](byol/11.2.7-h18.md) - 31 regions
 - [11.2.8](byol/11.2.8.md) - 32 regions
