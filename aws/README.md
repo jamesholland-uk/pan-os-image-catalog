@@ -20,6 +20,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [11.1.13-h5](byol/11.1.13-h5.md) - 31 regions
 - [11.1.13-h12](byol/11.1.13-h12.md) - 31 regions
 - [11.1.13-h16](byol/11.1.13-h16.md) - 31 regions
+- [11.1.13-h17](byol/11.1.13-h17.md) - 31 regions
 - [11.1.15](byol/11.1.15.md) - 31 regions
 - [11.1.16-h4](byol/11.1.16-h4.md) - 31 regions
 - [11.2.5](byol/11.2.5.md) - 28 regions
@@ -41,6 +42,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [11.1.10-h25](bundle1/11.1.10-h25.md) - 30 regions
 - [11.1.13-h5](bundle1/11.1.13-h5.md) - 30 regions
 - [11.1.13-h12](bundle1/11.1.13-h12.md) - 30 regions
+- [11.1.13-h16](bundle1/11.1.13-h16.md) - 30 regions
 - [11.1.15](bundle1/11.1.15.md) - 30 regions
 - [11.2.5](bundle1/11.2.5.md) - 28 regions
 - [11.2.12](bundle1/11.2.12.md) - 30 regions
@@ -57,6 +59,7 @@ AMI IDs are region-specific. Each version below links to its IDs across the 33 r
 - [11.1.10-h25](bundle2/11.1.10-h25.md) - 30 regions
 - [11.1.13-h5](bundle2/11.1.13-h5.md) - 30 regions
 - [11.1.13-h12](bundle2/11.1.13-h12.md) - 30 regions
+- [11.1.13-h16](bundle2/11.1.13-h16.md) - 30 regions
 - [11.1.15](bundle2/11.1.15.md) - 30 regions
 - [11.2.5](bundle2/11.2.5.md) - 31 regions
 - [11.2.12](bundle2/11.2.12.md) - 30 regions
